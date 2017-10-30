@@ -18,7 +18,8 @@ public class Test {
         // TODO code application logic here
         System.out.println("print statement"
         );
-    
+        int i =4;
+        
     }
      
 }
